@@ -1,0 +1,49 @@
+html{
+    background: whitesmoke;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 600px;
+    height: 600px;
+    text-align: center;
+}
+
+table tr{
+    height:66px;
+}
+
+table tr td{
+    width: 66px;
+    border: 2px solid peru;
+}
+
+#columnsNames{
+    background-color: gray;
+    font-size: 2rem;
+}
+
+.rows{
+
+}
+
+.rowsNames{
+    background-color: gray;
+    font-size: 2rem;
+}
+
+.blackSquares{
+    background-color: darkolivegreen;
+}
+
+h1{
+    text-align: left;
+    text-indent: 145px;
+    color:dimgray;
+}
+
+img{
+    height: 50px;
+}
